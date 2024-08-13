@@ -1,7 +1,8 @@
 {
-  "name": "Hello world",
+  "name": "hello-world",
   "version": "1.0.0",
-  "description": "Hello world",
+  "$apiVersion": "1.0.0",
+  "description": "This is hello world!!!!!!",
   "title": "Hello World",
   "author": "username",
   "categories": [
